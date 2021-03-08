@@ -1,4 +1,4 @@
-# Find the Duplicate Number - Leetcode-Medium
+# Find the Duplicate Number -287- Leetcode-Medium
 
 # Solution-1 -------------------------------------------
 
